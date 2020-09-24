@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="add_word">Add Book</string>
+    <string name="hint_word">Book name</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Book not added, name was empty.</string>
+    <string name="delete_all">Delete All</string>
+</resources>
